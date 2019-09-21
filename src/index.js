@@ -6,7 +6,7 @@ import rootReducer from './rootReducer'
 import * as serviceWorker from './serviceWorker'
 
 const initialState = {
-  AppReducer: {
+  App: {
     sdk: undefined,
     loading: false,
     loadingMessage: '',
