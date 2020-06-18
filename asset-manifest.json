@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/token-creator/static/css/main.3b9fece1.chunk.css",
-    "main.js": "/token-creator/static/js/main.35f458cb.chunk.js",
-    "main.js.map": "/token-creator/static/js/main.35f458cb.chunk.js.map",
+    "main.js": "/token-creator/static/js/main.85b99d06.chunk.js",
+    "main.js.map": "/token-creator/static/js/main.85b99d06.chunk.js.map",
     "runtime~main.js": "/token-creator/static/js/runtime~main.4a771e1a.js",
     "runtime~main.js.map": "/token-creator/static/js/runtime~main.4a771e1a.js.map",
     "static/css/2.8c467cd4.chunk.css": "/token-creator/static/css/2.8c467cd4.chunk.css",
-    "static/js/2.50f64391.chunk.js": "/token-creator/static/js/2.50f64391.chunk.js",
-    "static/js/2.50f64391.chunk.js.map": "/token-creator/static/js/2.50f64391.chunk.js.map",
+    "static/js/2.831ff2ed.chunk.js": "/token-creator/static/js/2.831ff2ed.chunk.js",
+    "static/js/2.831ff2ed.chunk.js.map": "/token-creator/static/js/2.831ff2ed.chunk.js.map",
     "index.html": "/token-creator/index.html",
-    "precache-manifest.b1d2351324c882ca782f190fb3352848.js": "/token-creator/precache-manifest.b1d2351324c882ca782f190fb3352848.js",
+    "precache-manifest.da4a5183e0fef6815270fec130b0f6e5.js": "/token-creator/precache-manifest.da4a5183e0fef6815270fec130b0f6e5.js",
     "service-worker.js": "/token-creator/service-worker.js",
     "static/css/2.8c467cd4.chunk.css.map": "/token-creator/static/css/2.8c467cd4.chunk.css.map",
     "static/css/main.3b9fece1.chunk.css.map": "/token-creator/static/css/main.3b9fece1.chunk.css.map"
