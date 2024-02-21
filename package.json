@@ -6,7 +6,7 @@
   "dependencies": {
     "@polymathnetwork/sdk": "3.0.0",
     "antd": "^3.23.2",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "p-iteration": "^1.1.8",
     "rc-form-hooks": "^0.0.1-alpha.22",
     "react": "^16.9.0",
